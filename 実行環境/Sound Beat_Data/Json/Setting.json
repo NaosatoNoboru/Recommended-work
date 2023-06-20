@@ -1,0 +1,9 @@
+{
+    "Left": "d",
+    "Down": "f",
+    "Up": "j",
+    "Right": "k",
+    "tap_sound": 0,
+    "scroll_speed": 1.0,
+    "master_volume": 0.5
+}
