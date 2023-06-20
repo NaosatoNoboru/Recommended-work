@@ -1,0 +1,35 @@
+{
+    "music_name": "",
+    "bpm": 280,
+    "background": "エングラム.png",
+    "max_combo": 3,
+    "notes": [
+        {
+            "lane": 3,
+            "section": 0,
+            "step": 5,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 0.5892857313156128
+        },
+        {
+            "lane": 0,
+            "section": 0,
+            "step": 7,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 0.8035714030265808
+        },
+        {
+            "lane": 1,
+            "section": 0,
+            "step": 8,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 0.9107142686843872
+        }
+    ]
+}

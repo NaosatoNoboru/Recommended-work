@@ -1,0 +1,1196 @@
+{
+    "music_name": "Training",
+    "bpm": 120,
+    "background": "",
+    "max_combo": 132,
+    "notes": [
+        {
+            "lane": 0,
+            "section": 6,
+            "step": 97,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 6,
+            "time": 12.1875
+        },
+        {
+            "lane": 0,
+            "section": 6,
+            "step": 98,
+            "type": 2,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 12.3125
+        },
+        {
+            "lane": 0,
+            "section": 6,
+            "step": 99,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 12.4375
+        },
+        {
+            "lane": 0,
+            "section": 6,
+            "step": 100,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 12.5625
+        },
+        {
+            "lane": 0,
+            "section": 6,
+            "step": 101,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 12.6875
+        },
+        {
+            "lane": 0,
+            "section": 6,
+            "step": 102,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 12.8125
+        },
+        {
+            "lane": 0,
+            "section": 6,
+            "step": 103,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 12.9375
+        },
+        {
+            "lane": 3,
+            "section": 6,
+            "step": 104,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 6,
+            "time": 13.0625
+        },
+        {
+            "lane": 3,
+            "section": 6,
+            "step": 105,
+            "type": 2,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 13.1875
+        },
+        {
+            "lane": 3,
+            "section": 6,
+            "step": 106,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 13.3125
+        },
+        {
+            "lane": 3,
+            "section": 6,
+            "step": 107,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 13.4375
+        },
+        {
+            "lane": 3,
+            "section": 6,
+            "step": 108,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 13.5625
+        },
+        {
+            "lane": 3,
+            "section": 6,
+            "step": 109,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 13.6875
+        },
+        {
+            "lane": 3,
+            "section": 6,
+            "step": 110,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 13.8125
+        },
+        {
+            "lane": 3,
+            "section": 7,
+            "step": 120,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 6,
+            "time": 15.0625
+        },
+        {
+            "lane": 3,
+            "section": 7,
+            "step": 121,
+            "type": 2,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 15.1875
+        },
+        {
+            "lane": 3,
+            "section": 7,
+            "step": 122,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 15.3125
+        },
+        {
+            "lane": 3,
+            "section": 7,
+            "step": 123,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 15.4375
+        },
+        {
+            "lane": 3,
+            "section": 7,
+            "step": 124,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 15.5625
+        },
+        {
+            "lane": 3,
+            "section": 7,
+            "step": 125,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 15.6875
+        },
+        {
+            "lane": 3,
+            "section": 7,
+            "step": 126,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 15.8125
+        },
+        {
+            "lane": 0,
+            "section": 2,
+            "step": 33,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 13,
+            "time": 4.1875
+        },
+        {
+            "lane": 0,
+            "section": 2,
+            "step": 34,
+            "type": 2,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 4.3125
+        },
+        {
+            "lane": 0,
+            "section": 2,
+            "step": 35,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 4.4375
+        },
+        {
+            "lane": 0,
+            "section": 2,
+            "step": 36,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 4.5625
+        },
+        {
+            "lane": 0,
+            "section": 2,
+            "step": 37,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 4.6875
+        },
+        {
+            "lane": 0,
+            "section": 2,
+            "step": 38,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 4.8125
+        },
+        {
+            "lane": 0,
+            "section": 2,
+            "step": 39,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 4.9375
+        },
+        {
+            "lane": 0,
+            "section": 2,
+            "step": 40,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 5.0625
+        },
+        {
+            "lane": 0,
+            "section": 2,
+            "step": 41,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 5.1875
+        },
+        {
+            "lane": 0,
+            "section": 2,
+            "step": 42,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 5.3125
+        },
+        {
+            "lane": 0,
+            "section": 2,
+            "step": 43,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 5.4375
+        },
+        {
+            "lane": 0,
+            "section": 2,
+            "step": 44,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 5.5625
+        },
+        {
+            "lane": 0,
+            "section": 2,
+            "step": 45,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 5.6875
+        },
+        {
+            "lane": 0,
+            "section": 2,
+            "step": 46,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 5.8125
+        },
+        {
+            "lane": 3,
+            "section": 2,
+            "step": 36,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 4.5625
+        },
+        {
+            "lane": 1,
+            "section": 2,
+            "step": 40,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 5.0625
+        },
+        {
+            "lane": 3,
+            "section": 3,
+            "step": 49,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 13,
+            "time": 6.1875
+        },
+        {
+            "lane": 3,
+            "section": 3,
+            "step": 50,
+            "type": 2,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 6.3125
+        },
+        {
+            "lane": 3,
+            "section": 3,
+            "step": 51,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 6.4375
+        },
+        {
+            "lane": 3,
+            "section": 3,
+            "step": 52,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 6.5625
+        },
+        {
+            "lane": 3,
+            "section": 3,
+            "step": 53,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 6.6875
+        },
+        {
+            "lane": 3,
+            "section": 3,
+            "step": 54,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 6.8125
+        },
+        {
+            "lane": 3,
+            "section": 3,
+            "step": 55,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 6.9375
+        },
+        {
+            "lane": 3,
+            "section": 3,
+            "step": 56,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 7.0625
+        },
+        {
+            "lane": 3,
+            "section": 3,
+            "step": 57,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 7.1875
+        },
+        {
+            "lane": 3,
+            "section": 3,
+            "step": 58,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 7.3125
+        },
+        {
+            "lane": 3,
+            "section": 3,
+            "step": 59,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 7.4375
+        },
+        {
+            "lane": 3,
+            "section": 3,
+            "step": 60,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 7.5625
+        },
+        {
+            "lane": 3,
+            "section": 3,
+            "step": 61,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 7.6875
+        },
+        {
+            "lane": 3,
+            "section": 3,
+            "step": 62,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 7.8125
+        },
+        {
+            "lane": 0,
+            "section": 3,
+            "step": 52,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 6.5625
+        },
+        {
+            "lane": 2,
+            "section": 3,
+            "step": 56,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 7.0625
+        },
+        {
+            "lane": 0,
+            "section": 3,
+            "step": 60,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 7.5625
+        },
+        {
+            "lane": 2,
+            "section": 4,
+            "step": 65,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 13,
+            "time": 8.1875
+        },
+        {
+            "lane": 2,
+            "section": 4,
+            "step": 66,
+            "type": 2,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 8.3125
+        },
+        {
+            "lane": 2,
+            "section": 4,
+            "step": 67,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 8.4375
+        },
+        {
+            "lane": 2,
+            "section": 4,
+            "step": 68,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 8.5625
+        },
+        {
+            "lane": 2,
+            "section": 4,
+            "step": 69,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 8.6875
+        },
+        {
+            "lane": 2,
+            "section": 4,
+            "step": 70,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 8.8125
+        },
+        {
+            "lane": 2,
+            "section": 4,
+            "step": 71,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 8.9375
+        },
+        {
+            "lane": 2,
+            "section": 4,
+            "step": 72,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 9.0625
+        },
+        {
+            "lane": 2,
+            "section": 4,
+            "step": 73,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 9.1875
+        },
+        {
+            "lane": 2,
+            "section": 4,
+            "step": 74,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 9.3125
+        },
+        {
+            "lane": 2,
+            "section": 4,
+            "step": 75,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 9.4375
+        },
+        {
+            "lane": 2,
+            "section": 4,
+            "step": 76,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 9.5625
+        },
+        {
+            "lane": 2,
+            "section": 4,
+            "step": 77,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 9.6875
+        },
+        {
+            "lane": 2,
+            "section": 4,
+            "step": 78,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 9.8125
+        },
+        {
+            "lane": 0,
+            "section": 4,
+            "step": 68,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 8.5625
+        },
+        {
+            "lane": 3,
+            "section": 4,
+            "step": 72,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 9.0625
+        },
+        {
+            "lane": 0,
+            "section": 4,
+            "step": 76,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 9.5625
+        },
+        {
+            "lane": 1,
+            "section": 5,
+            "step": 81,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 13,
+            "time": 10.1875
+        },
+        {
+            "lane": 1,
+            "section": 5,
+            "step": 82,
+            "type": 2,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 10.3125
+        },
+        {
+            "lane": 1,
+            "section": 5,
+            "step": 83,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 10.4375
+        },
+        {
+            "lane": 1,
+            "section": 5,
+            "step": 84,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 10.5625
+        },
+        {
+            "lane": 1,
+            "section": 5,
+            "step": 85,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 10.6875
+        },
+        {
+            "lane": 1,
+            "section": 5,
+            "step": 86,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 10.8125
+        },
+        {
+            "lane": 1,
+            "section": 5,
+            "step": 87,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 10.9375
+        },
+        {
+            "lane": 1,
+            "section": 5,
+            "step": 88,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 11.0625
+        },
+        {
+            "lane": 1,
+            "section": 5,
+            "step": 89,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 11.1875
+        },
+        {
+            "lane": 1,
+            "section": 5,
+            "step": 90,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 11.3125
+        },
+        {
+            "lane": 1,
+            "section": 5,
+            "step": 91,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 11.4375
+        },
+        {
+            "lane": 1,
+            "section": 5,
+            "step": 92,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 11.5625
+        },
+        {
+            "lane": 1,
+            "section": 5,
+            "step": 93,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 11.6875
+        },
+        {
+            "lane": 1,
+            "section": 5,
+            "step": 94,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 11.8125
+        },
+        {
+            "lane": 3,
+            "section": 5,
+            "step": 84,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 10.5625
+        },
+        {
+            "lane": 0,
+            "section": 5,
+            "step": 88,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 11.0625
+        },
+        {
+            "lane": 3,
+            "section": 5,
+            "step": 92,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 11.5625
+        },
+        {
+            "lane": 1,
+            "section": 7,
+            "step": 113,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 6,
+            "time": 14.1875
+        },
+        {
+            "lane": 1,
+            "section": 7,
+            "step": 114,
+            "type": 2,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 14.3125
+        },
+        {
+            "lane": 1,
+            "section": 7,
+            "step": 115,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 14.4375
+        },
+        {
+            "lane": 1,
+            "section": 7,
+            "step": 116,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 14.5625
+        },
+        {
+            "lane": 1,
+            "section": 7,
+            "step": 117,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 14.6875
+        },
+        {
+            "lane": 1,
+            "section": 7,
+            "step": 118,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 14.8125
+        },
+        {
+            "lane": 1,
+            "section": 7,
+            "step": 119,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 14.9375
+        },
+        {
+            "lane": 0,
+            "section": 7,
+            "step": 116,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 14.5625
+        },
+        {
+            "lane": 2,
+            "section": 7,
+            "step": 123,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 15.4375
+        },
+        {
+            "lane": 2,
+            "section": 2,
+            "step": 37,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 4.6875
+        },
+        {
+            "lane": 1,
+            "section": 2,
+            "step": 38,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 4.8125
+        },
+        {
+            "lane": 2,
+            "section": 2,
+            "step": 41,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 5.1875
+        },
+        {
+            "lane": 3,
+            "section": 2,
+            "step": 42,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 5.3125
+        },
+        {
+            "lane": 3,
+            "section": 2,
+            "step": 44,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 5.5625
+        },
+        {
+            "lane": 2,
+            "section": 2,
+            "step": 45,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 5.6875
+        },
+        {
+            "lane": 1,
+            "section": 2,
+            "step": 46,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 5.8125
+        },
+        {
+            "lane": 1,
+            "section": 3,
+            "step": 53,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 6.6875
+        },
+        {
+            "lane": 2,
+            "section": 3,
+            "step": 54,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 6.8125
+        },
+        {
+            "lane": 1,
+            "section": 3,
+            "step": 57,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 7.1875
+        },
+        {
+            "lane": 0,
+            "section": 3,
+            "step": 58,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 7.3125
+        },
+        {
+            "lane": 1,
+            "section": 3,
+            "step": 61,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 7.6875
+        },
+        {
+            "lane": 2,
+            "section": 3,
+            "step": 62,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 7.8125
+        },
+        {
+            "lane": 1,
+            "section": 4,
+            "step": 69,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 8.6875
+        },
+        {
+            "lane": 3,
+            "section": 4,
+            "step": 70,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 8.8125
+        },
+        {
+            "lane": 1,
+            "section": 4,
+            "step": 73,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 9.1875
+        },
+        {
+            "lane": 0,
+            "section": 4,
+            "step": 74,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 9.3125
+        },
+        {
+            "lane": 1,
+            "section": 4,
+            "step": 77,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 9.6875
+        },
+        {
+            "lane": 3,
+            "section": 4,
+            "step": 78,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 9.8125
+        },
+        {
+            "lane": 2,
+            "section": 5,
+            "step": 85,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 10.6875
+        },
+        {
+            "lane": 0,
+            "section": 5,
+            "step": 86,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 10.8125
+        },
+        {
+            "lane": 2,
+            "section": 5,
+            "step": 89,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 11.1875
+        },
+        {
+            "lane": 3,
+            "section": 5,
+            "step": 90,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 11.3125
+        },
+        {
+            "lane": 2,
+            "section": 5,
+            "step": 93,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 11.6875
+        },
+        {
+            "lane": 0,
+            "section": 5,
+            "step": 94,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 11.8125
+        },
+        {
+            "lane": 1,
+            "section": 6,
+            "step": 100,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 12.5625
+        },
+        {
+            "lane": 2,
+            "section": 6,
+            "step": 101,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 12.6875
+        },
+        {
+            "lane": 3,
+            "section": 6,
+            "step": 102,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 12.8125
+        },
+        {
+            "lane": 2,
+            "section": 6,
+            "step": 107,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 13.4375
+        },
+        {
+            "lane": 1,
+            "section": 6,
+            "step": 108,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 13.5625
+        },
+        {
+            "lane": 0,
+            "section": 6,
+            "step": 109,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 13.6875
+        },
+        {
+            "lane": 2,
+            "section": 7,
+            "step": 117,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 14.6875
+        },
+        {
+            "lane": 3,
+            "section": 7,
+            "step": 118,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 14.8125
+        },
+        {
+            "lane": 1,
+            "section": 7,
+            "step": 124,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 15.5625
+        },
+        {
+            "lane": 0,
+            "section": 7,
+            "step": 125,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 15.6875
+        }
+    ]
+}

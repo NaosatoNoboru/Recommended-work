@@ -1,0 +1,440 @@
+{
+    "music_name": "Training",
+    "bpm": 120,
+    "background": "",
+    "max_combo": 48,
+    "notes": [
+        {
+            "lane": 3,
+            "section": 7,
+            "step": 116,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 14.5625
+        },
+        {
+            "lane": 3,
+            "section": 7,
+            "step": 118,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 14.8125
+        },
+        {
+            "lane": 0,
+            "section": 7,
+            "step": 120,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 15.0625
+        },
+        {
+            "lane": 0,
+            "section": 7,
+            "step": 122,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 15.3125
+        },
+        {
+            "lane": 2,
+            "section": 7,
+            "step": 124,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 15.5625
+        },
+        {
+            "lane": 2,
+            "section": 7,
+            "step": 126,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 15.8125
+        },
+        {
+            "lane": 0,
+            "section": 2,
+            "step": 32,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 4.0625
+        },
+        {
+            "lane": 0,
+            "section": 2,
+            "step": 34,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 4.3125
+        },
+        {
+            "lane": 0,
+            "section": 2,
+            "step": 36,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 4.5625
+        },
+        {
+            "lane": 0,
+            "section": 2,
+            "step": 38,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 4.8125
+        },
+        {
+            "lane": 0,
+            "section": 2,
+            "step": 40,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 5.0625
+        },
+        {
+            "lane": 0,
+            "section": 2,
+            "step": 42,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 5.3125
+        },
+        {
+            "lane": 0,
+            "section": 2,
+            "step": 44,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 5.5625
+        },
+        {
+            "lane": 0,
+            "section": 2,
+            "step": 46,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 5.8125
+        },
+        {
+            "lane": 3,
+            "section": 3,
+            "step": 48,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 6.0625
+        },
+        {
+            "lane": 3,
+            "section": 3,
+            "step": 50,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 6.3125
+        },
+        {
+            "lane": 3,
+            "section": 3,
+            "step": 52,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 6.5625
+        },
+        {
+            "lane": 3,
+            "section": 3,
+            "step": 54,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 6.8125
+        },
+        {
+            "lane": 3,
+            "section": 3,
+            "step": 56,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 7.0625
+        },
+        {
+            "lane": 3,
+            "section": 3,
+            "step": 58,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 7.3125
+        },
+        {
+            "lane": 3,
+            "section": 3,
+            "step": 60,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 7.5625
+        },
+        {
+            "lane": 3,
+            "section": 3,
+            "step": 62,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 7.8125
+        },
+        {
+            "lane": 2,
+            "section": 4,
+            "step": 64,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 8.0625
+        },
+        {
+            "lane": 2,
+            "section": 4,
+            "step": 66,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 8.3125
+        },
+        {
+            "lane": 2,
+            "section": 4,
+            "step": 68,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 8.5625
+        },
+        {
+            "lane": 2,
+            "section": 4,
+            "step": 70,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 8.8125
+        },
+        {
+            "lane": 2,
+            "section": 4,
+            "step": 72,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 9.0625
+        },
+        {
+            "lane": 2,
+            "section": 4,
+            "step": 74,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 9.3125
+        },
+        {
+            "lane": 2,
+            "section": 4,
+            "step": 76,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 9.5625
+        },
+        {
+            "lane": 2,
+            "section": 4,
+            "step": 78,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 9.8125
+        },
+        {
+            "lane": 1,
+            "section": 5,
+            "step": 80,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 10.0625
+        },
+        {
+            "lane": 1,
+            "section": 5,
+            "step": 82,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 10.3125
+        },
+        {
+            "lane": 1,
+            "section": 5,
+            "step": 84,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 10.5625
+        },
+        {
+            "lane": 1,
+            "section": 5,
+            "step": 86,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 10.8125
+        },
+        {
+            "lane": 1,
+            "section": 5,
+            "step": 88,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 11.0625
+        },
+        {
+            "lane": 1,
+            "section": 5,
+            "step": 90,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 11.3125
+        },
+        {
+            "lane": 1,
+            "section": 5,
+            "step": 92,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 11.5625
+        },
+        {
+            "lane": 1,
+            "section": 5,
+            "step": 94,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 11.8125
+        },
+        {
+            "lane": 0,
+            "section": 6,
+            "step": 96,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 12.0625
+        },
+        {
+            "lane": 0,
+            "section": 6,
+            "step": 98,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 12.3125
+        },
+        {
+            "lane": 1,
+            "section": 6,
+            "step": 100,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 12.5625
+        },
+        {
+            "lane": 1,
+            "section": 6,
+            "step": 102,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 12.8125
+        },
+        {
+            "lane": 2,
+            "section": 6,
+            "step": 104,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 13.0625
+        },
+        {
+            "lane": 2,
+            "section": 6,
+            "step": 106,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 13.3125
+        },
+        {
+            "lane": 3,
+            "section": 6,
+            "step": 108,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 13.5625
+        },
+        {
+            "lane": 3,
+            "section": 6,
+            "step": 110,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 13.8125
+        },
+        {
+            "lane": 1,
+            "section": 7,
+            "step": 112,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 14.0625
+        },
+        {
+            "lane": 1,
+            "section": 7,
+            "step": 114,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 14.3125
+        }
+    ]
+}

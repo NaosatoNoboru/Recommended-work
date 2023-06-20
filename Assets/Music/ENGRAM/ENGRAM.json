@@ -1,0 +1,215 @@
+{
+    "music_name": "ENGRAM",
+    "bpm": 140,
+    "background": "hell.png",
+    "max_combo": 23,
+    "notes": [
+        {
+            "lane": 0,
+            "section": 1,
+            "step": 24,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 2.625
+        },
+        {
+            "lane": 1,
+            "section": 0,
+            "step": 11,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 5,
+            "time": 1.2321428060531617
+        },
+        {
+            "lane": 1,
+            "section": 0,
+            "step": 12,
+            "type": 2,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 1.3392857313156129
+        },
+        {
+            "lane": 1,
+            "section": 0,
+            "step": 13,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 1.4464285373687745
+        },
+        {
+            "lane": 1,
+            "section": 0,
+            "step": 14,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 1.5535714626312256
+        },
+        {
+            "lane": 1,
+            "section": 0,
+            "step": 15,
+            "type": 1,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 1.6607142686843873
+        },
+        {
+            "lane": 1,
+            "section": 1,
+            "step": 16,
+            "type": 3,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 1.7678571939468384
+        },
+        {
+            "lane": 3,
+            "section": 1,
+            "step": 24,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 2.625
+        },
+        {
+            "lane": 1,
+            "section": 2,
+            "step": 33,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 1,
+            "time": 3.5892856121063234
+        },
+        {
+            "lane": 1,
+            "section": 2,
+            "step": 34,
+            "type": 3,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 3.6964285373687746
+        },
+        {
+            "lane": 3,
+            "section": 2,
+            "step": 37,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 4.017857074737549
+        },
+        {
+            "lane": 2,
+            "section": 2,
+            "step": 38,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 4.125
+        },
+        {
+            "lane": 1,
+            "section": 2,
+            "step": 39,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 4.232142925262451
+        },
+        {
+            "lane": 0,
+            "section": 2,
+            "step": 40,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 4.339285850524902
+        },
+        {
+            "lane": 1,
+            "section": 2,
+            "step": 41,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 4.4464287757873539
+        },
+        {
+            "lane": 2,
+            "section": 2,
+            "step": 42,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 4.5535712242126469
+        },
+        {
+            "lane": 3,
+            "section": 2,
+            "step": 43,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 4.660714149475098
+        },
+        {
+            "lane": 3,
+            "section": 2,
+            "step": 46,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 1,
+            "time": 4.982142925262451
+        },
+        {
+            "lane": 3,
+            "section": 2,
+            "step": 47,
+            "type": 3,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 5.089285850524902
+        },
+        {
+            "lane": 2,
+            "section": 3,
+            "step": 51,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 5.517857074737549
+        },
+        {
+            "lane": 1,
+            "section": 3,
+            "step": 52,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 5.625
+        },
+        {
+            "lane": 3,
+            "section": 3,
+            "step": 54,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 5.839285850524902
+        },
+        {
+            "lane": 1,
+            "section": 3,
+            "step": 55,
+            "type": 0,
+            "gimmick": 0,
+            "long_num_max": 0,
+            "time": 5.9464287757873539
+        }
+    ]
+}

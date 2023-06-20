@@ -1,0 +1,39 @@
+{
+    "data_count": 2,
+    "select_data": [
+        {
+            "music_name": "cold like rain",
+            "rust": [
+                72.5,
+                97.0
+            ],
+            "score": [
+                0,
+                0,
+                0
+            ],
+            "rank": [
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "music_name": "ENGRAM",
+            "rust": [
+                0.0,
+                0.0
+            ],
+            "score": [
+                0,
+                0,
+                0
+            ],
+            "rank": [
+                "",
+                "",
+                ""
+            ]
+        }
+    ]
+}
